@@ -1,0 +1,3 @@
+Main-Class: splashtest.Main
+SplashScreen-Image: images/cover.png
+
